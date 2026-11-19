@@ -1,0 +1,10 @@
+# Java build output and IDE metadata
+**/target/
+**/.idea/
+**/*.iml
+**/*.class
+**/out/
+
+# Local operating system files
+.DS_Store
+Thumbs.db
